@@ -80,7 +80,10 @@
 .text-center{
     text-align: center;
 }
-
+.text-bold{
+    font-weight: bold !important;
+    border-bottom: 1px solid #fff;
+}
 
 /* Alert */
 .alert {
